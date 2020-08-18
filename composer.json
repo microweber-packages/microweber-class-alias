@@ -7,7 +7,7 @@
             "name": "Microweber",
             "email": "info@microweber.com"
         },
-		{
+	{
             "name": "Bozhidar Slaveykov",
             "email": "bobi@microweber.com"
         }
@@ -16,7 +16,7 @@
     "psr-4": {
       "App\\": "app/",
       "Microweber\\": "src/Microweber/"
-    },
+    }
   },
   "homepage": "http://microweber.com",
   "license": "MIT",
