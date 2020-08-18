@@ -1,6 +1,8 @@
 <?php
-namespace Microweber\Providers;
+namespace Microweber;
 
-class MicroweberServiceProvider {
+use Illuminate\Support\ServiceProvider;
+
+class MicroweberServiceProvider extends ServiceProvider {
 
 }
