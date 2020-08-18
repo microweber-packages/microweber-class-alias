@@ -1,6 +1,6 @@
 <?php
 namespace Microweber\App;
 
-class User extends MicroweberPackages\User\User {
+class User extends \MicroweberPackages\App\User\User {
 
 }
