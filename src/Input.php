@@ -2,7 +2,7 @@
 
 class Input {
 
-    public function all() {
+    public static function all() {
         return \Illuminate\Support\Facades\Request::all();
     }
 
