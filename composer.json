@@ -1,7 +1,7 @@
 {
     "name": "microweber-packages/microweber-class-alias",
     "description": "PHP Microweber class alias.",
-    "version" : "0.3",
+    "version" : "0.4",
     "authors": [
         {
             "name": "Microweber",
@@ -13,8 +13,8 @@
         }
   ],
    "autoload": {
+	"classmap": ["src/Input.php"],
     "psr-4": {
-      "\\": "src/",
       "Microweber\\": "src/Microweber/"
     }
   },
